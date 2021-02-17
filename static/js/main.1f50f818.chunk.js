@@ -1,0 +1,2 @@
+(this.webpackJsonpyes=this.webpackJsonpyes||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);t(1);var c=t(3),s=t.n(c),i=(t(8),t(9),t(0));var r=function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)("h1",{children:"Pan Chwastek jest 11/10 nauczycielem"})})};s.a.render(Object(i.jsx)(r,{}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.1f50f818.chunk.js.map
