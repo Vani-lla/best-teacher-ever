@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/best-teacher-ever/static/css/main.973ac55c.chunk.css",
-    "main.js": "/best-teacher-ever/static/js/main.9c68d04c.chunk.js",
-    "main.js.map": "/best-teacher-ever/static/js/main.9c68d04c.chunk.js.map",
+    "main.css": "/best-teacher-ever/static/css/main.a612234a.chunk.css",
+    "main.js": "/best-teacher-ever/static/js/main.a6c7f592.chunk.js",
+    "main.js.map": "/best-teacher-ever/static/js/main.a6c7f592.chunk.js.map",
     "runtime-main.js": "/best-teacher-ever/static/js/runtime-main.08bdb89b.js",
     "runtime-main.js.map": "/best-teacher-ever/static/js/runtime-main.08bdb89b.js.map",
-    "static/js/2.b6acfcee.chunk.js": "/best-teacher-ever/static/js/2.b6acfcee.chunk.js",
-    "static/js/2.b6acfcee.chunk.js.map": "/best-teacher-ever/static/js/2.b6acfcee.chunk.js.map",
+    "static/js/2.ccf9b8f4.chunk.js": "/best-teacher-ever/static/js/2.ccf9b8f4.chunk.js",
+    "static/js/2.ccf9b8f4.chunk.js.map": "/best-teacher-ever/static/js/2.ccf9b8f4.chunk.js.map",
     "index.html": "/best-teacher-ever/index.html",
-    "static/css/main.973ac55c.chunk.css.map": "/best-teacher-ever/static/css/main.973ac55c.chunk.css.map",
-    "static/js/2.b6acfcee.chunk.js.LICENSE.txt": "/best-teacher-ever/static/js/2.b6acfcee.chunk.js.LICENSE.txt"
+    "static/css/main.a612234a.chunk.css.map": "/best-teacher-ever/static/css/main.a612234a.chunk.css.map",
+    "static/js/2.ccf9b8f4.chunk.js.LICENSE.txt": "/best-teacher-ever/static/js/2.ccf9b8f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.08bdb89b.js",
-    "static/js/2.b6acfcee.chunk.js",
-    "static/css/main.973ac55c.chunk.css",
-    "static/js/main.9c68d04c.chunk.js"
+    "static/js/2.ccf9b8f4.chunk.js",
+    "static/css/main.a612234a.chunk.css",
+    "static/js/main.a6c7f592.chunk.js"
   ]
 }
